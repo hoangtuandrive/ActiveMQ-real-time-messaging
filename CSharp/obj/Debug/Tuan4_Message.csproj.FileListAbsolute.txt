@@ -1,0 +1,17 @@
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Tuan4_Message.exe.config
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Tuan4_Message.exe
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Tuan4_Message.pdb
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.Form1.resources
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.Properties.Resources.resources
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.csproj.GenerateResource.Cache
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.exe
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.pdb
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\obj\Debug\Tuan4_Message.csprojResolveAssemblyReference.cache
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Apache.NMS.dll
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Apache.NMS.pdb
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\BuiPhucNguyen_19494421\BuiPhucNguyen_19494421_C\Tuan4_Message\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\KTPM thuc hanh\19490911_GiangVuHoangTuan_NET\Tuan4_Message\bin\Debug\Tuan4_Message.exe.config
+T:\KTPM thuc hanh\19490911_GiangVuHoangTuan_NET\Tuan4_Message\obj\Debug\Tuan4_Message.exe
+T:\KTPM thuc hanh\19490911_GiangVuHoangTuan_NET\Tuan4_Message\obj\Debug\Tuan4_Message.pdb
